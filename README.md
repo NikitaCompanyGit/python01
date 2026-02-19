@@ -6,4 +6,4 @@
 - `greeting.py` - Greeting module
 
 ## Creator
-TheLegendMaster
+Филипов Никита
